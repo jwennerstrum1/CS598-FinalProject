@@ -8,3 +8,6 @@ Scripts to facilitate with the UMLS processing are contained within the `scripts
 
 ## Mortality Prediction
 We experiment with the target task of mortality prediction in the `RunMortalityPrediction.ipynb` notebook.  This notebook creates several combinations of hyperparameter settings and passes them to the author's mortality prediction function.  Since model training requires an available GPU, my partner and I ran this script in Google Colab.
+
+## Diagnosis Prediction
+We experiment with the target task of mortality prediction in the `RunDiagnosisPrediction.ipynb` notebook.  This notebook contains a similar script as `RunMortalityPrediction.ipynb` with different hyperparameters. This task was found to be significantly more computationally expensive and a computer with 30 GB of RAM and a GPU with 15 GB of ram is recommended.  We found that using Google Colab Pro was sufficient.
