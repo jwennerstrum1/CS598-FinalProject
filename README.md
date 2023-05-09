@@ -1,4 +1,8 @@
 # CS598-FinalProject
+## Background
+Our Final Project replicates the work of Zaghir et al in the paper (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8982755/)[Real-world Patient Trajectory Prediction from Clinical Notes Using Artificial Neural Networks and UMLS-Based Extraction of Concepts]. The source code for the original author's work can be found at the following link:
+https://github.com/JamilProg/patient_trajectory_prediction/
+
 ## Quick UMLS Processing
 
 Scripts to facilitate with the UMLS processing are contained within the `scripts` directory.  This includes:
