@@ -3,6 +3,10 @@
 Our Final Project replicates the work of Zaghir et al in the paper [Real-world Patient Trajectory Prediction from Clinical Notes Using Artificial Neural Networks and UMLS-Based Extraction of Concepts](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8982755/). The source code for the original author's work can be found at the following link:
 https://github.com/JamilProg/patient_trajectory_prediction/
 
+## Dependencies
+The ability to run the scripts contained in this repository assume that you have followed all setup instructions in the original author's [README.md](https://github.com/JamilProg/patient_trajectory_prediction/blob/master/README.md) and have installed the [QuickUMLS Library](https://github.com/Georgetown-IR-Lab/QuickUMLS)
+
+
 ## Quick UMLS Processing
 
 Scripts to facilitate with the UMLS processing are contained within the `scripts` directory.  This includes:
